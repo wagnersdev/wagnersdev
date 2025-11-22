@@ -20,4 +20,4 @@ Entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atuo na c
 ## 📫 Contato
 
 - [✉️ Email](mailto:wagnersillva909@gmail.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/wagner-silva-b869ab35b/)
+- [💼 LinkedIn](https://www.linkedin.com/in/wagnersdev/)
